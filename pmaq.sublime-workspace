@@ -1,0 +1,848 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trait",
+				"trait 	Language Construct"
+			],
+			[
+				"tr",
+				"trait 	Language Construct"
+			],
+			[
+				"ca",
+				"calculo"
+			],
+			[
+				"id",
+				"id_unidade_unidade"
+			],
+			[
+				"res",
+				"responsavel"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"ro",
+				"round"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"su",
+				"sub_dimensao"
+			],
+			[
+				"unid",
+				"id_unidade"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"re",
+				"responsavel"
+			],
+			[
+				"respos",
+				"responsavel"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"r",
+				"resposta"
+			],
+			[
+				"resul",
+				"resultado"
+			],
+			[
+				"o",
+				"ocorrencia"
+			],
+			[
+				"db",
+				"db_last	CI - Active Record DB Helper Functions"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"sub",
+				"subdimensão"
+			],
+			[
+				"log",
+				"log_sub"
+			],
+			[
+				"UC",
+				"ucwords"
+			],
+			[
+				"v",
+				"visualizando"
+			],
+			[
+				"f",
+				"fun	function …"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"model",
+				"model_calcular"
+			],
+			[
+				"_P",
+				"_get_post	CI - $_GET / $_POST"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"val",
+				"valor_sub"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"soa",
+				"SoapHeader"
+			],
+			[
+				"_",
+				"_get	CI - $_GET"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"ru",
+				"run_validation	CI - Run form validation"
+			],
+			[
+				"S",
+				"Salvar"
+			],
+			[
+				"form",
+				"form_submit	CI - Form Helper - Submit"
+			],
+			[
+				"control",
+				"control-label"
+			],
+			[
+				"col",
+				"col-lg-10"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"codi",
+				"codigo_dimensao_sub_dimensao"
+			],
+			[
+				"co",
+				"codigos"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"con",
+				"consultar"
+			],
+			[
+				"p",
+				"pergunta"
+			],
+			[
+				"mo",
+				"model_perguntas"
+			],
+			[
+				"fl",
+				"flag_ok"
+			],
+			[
+				"db_in",
+				"db_insert_id	CI - Active Record DB Last Inserted Id"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"_s",
+				"_post	CI - $_POST"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"a",
+				"adicionar"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"cookie",
+				"cicookieget	Cookie Get Cookie"
+			],
+			[
+				"session_co",
+				"session_get_cookie_params"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"va",
+				"validator"
+			],
+			[
+				"set_",
+				"set_flashdata	CI - Set flashdata"
+			],
+			[
+				"sess",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"se",
+				"set_flashdata	CI - Set flashdata"
+			],
+			[
+				"subdimen",
+				"sub_dimensoes"
+			],
+			[
+				"in",
+				"inativar"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"li",
+				"linha"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"c",
+				"crud	CI - Simple CRUD Controller"
+			],
+			[
+				"usu",
+				"usuarios"
+			],
+			[
+				"set",
+				"set_value"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"load",
+				"load_view	CI - Load View"
+			],
+			[
+				"loa",
+				"load_view	CI - Load View"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"cod",
+				"codigo_user"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"C",
+				"Conexao"
+			],
+			[
+				"ve",
+				"verifica_primo"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"int",
+				"integer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/calcular.php",
+			"settings":
+			{
+				"buffer_size": 1721,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/model_calcular.php",
+			"settings":
+			{
+				"buffer_size": 4231,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n ?>",
+			"file": "application/models/test.php",
+			"file_size": 0,
+			"file_write_time": 130788430074400756,
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/telas/questionario/visualizando.php",
+			"settings":
+			{
+				"buffer_size": 702,
+				"line_ending": "Windows",
+				"name": "visualizando.php"
+			}
+		},
+		{
+			"file": "application/controllers/questionario.php",
+			"settings":
+			{
+				"buffer_size": 5976,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/telas/questionario/escolher_sub.php",
+			"settings":
+			{
+				"buffer_size": 1224,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ruan Victor/Desktop/Sublime Text 2.0.2 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Websites/pmaq/application/views/telas/questionario/escolher_sub.php",
+		"/C/Websites/pmaq/application/models/model_perguntas.php",
+		"/C/Websites/pmaq/application/controllers/questionario.php",
+		"/C/Websites/pmaq/application/views/telas/questionario/resultado.php",
+		"/C/Websites/pmaq/application/views/telas/questionario/respondendo.php",
+		"/C/Websites/pmaq/application/views/telas/questionario/consultar_respondidos.php",
+		"/C/Websites/pmaq/application/views/includes/header.php",
+		"/C/Websites/pmaq/application/config/autoload.php",
+		"/C/Websites/pmaq/application/models/model_dimensoes.php",
+		"/C/Websites/acamados/retorno.php",
+		"/C/Websites/acamados/old/application/views/telas/sol/colSolicitacao.php",
+		"/C/Websites/pmaq/application/views/telas/questoes/consultar_perguntas.php",
+		"/C/Websites/pmaq/application/views/telas/questoes/editar.php",
+		"/C/Websites/pmaq/application/controllers/questoes.php",
+		"/C/Websites/pmaq/application/views/telas/questoes/novaQuestao.php",
+		"/C/Websites/pmaq/padrao/css/bootstrap-material.min.css",
+		"//172.16.177.73/c/xampp/htdocs/pmaq/application/views/telas/questionario/respondendo.php",
+		"/C/Websites/pmaq/application/models/model_users.php",
+		"/C/Websites/pmaq/application/views/telas/teste.php",
+		"/C/Websites/pmaq/application/controllers/usuarios.php",
+		"/C/Websites/pmaq/padrao/js/nova_questao.js",
+		"/C/Websites/pmaq/application/controllers/login.php",
+		"/C/Users/Ruan Victor/Desktop/INSTRUMENTO AVALIAÃ‡ÃƒO PMAQ-AB-08-04-2015.txt",
+		"/C/Websites/pmaq/application/models/model_questoes.php",
+		"/C/Websites/pmaq/application/views/json_respostas.php",
+		"/C/Websites/pmaq/application/views/telas/usuarios/cadastrar.php",
+		"/C/Websites/pmaq/application/config/config.php",
+		"/C/Websites/pmaq/padrao/js/respostas.php",
+		"/C/Websites/pmaq/padrao/js/jquery.min.js",
+		"/C/Websites/pmaq/application/views/telas/usuarios/consultar.php",
+		"/C/Websites/pmaq/padrao/css/jquery.dataTables.min.css",
+		"/C/Websites/pmaq/padrao/js/jquery.dataTables.min.js",
+		"/C/Websites/pmaq/padrao/datatables/extensions/TableTools/js/dataTables.tableTools.min.js",
+		"/C/Websites/pmaq/application/views/telas/usuarios/edit.php",
+		"/C/Websites/pmaq/application/controllers/relatorios.php",
+		"/C/Websites/pmaq/application/controllers/seguranca.php",
+		"/C/Websites/acamados/application/controllers/pacientes.php",
+		"/C/Websites/acamados/application/views/telas/editPaciente.php",
+		"/C/Websites/acamados/application/models/model_pacientes.php",
+		"/C/Websites/pmaq/application/views/index.php",
+		"/C/Users/Ruan Victor/Desktop/Sublime Text 2.0.2 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Websites/acamados/application/views/telas/insumos/colInsumos.php",
+		"/C/xampp/htdocs/prova/formcadastrar.php",
+		"/C/xampp/htdocs/prova/cadastrar.php",
+		"/C/xampp/htdocs/prova/consultar.php",
+		"/C/xampp/htdocs/prova/index.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/G/ruan/conexao.php",
+		"/C/xampp/htdocs/prova/index.pp",
+		"/D/Ruan/Sublime Text 2.0.2 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Aluno/Desktop/Sublime Text 2.0.2 x64/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Aluno/Desktop/Sublime Text 2.0.2 x64/Data/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$ocorrencia->percentual*($ocorrencia->valor",
+			";",
+			"$ocorrencia->percentual*",
+			";",
+			"$resultado",
+			"+=",
+			"valor_pergunta_respondida",
+			"subs[$ocorrencia->codigo_dimensao_sub_dimensao_perguntas_respostas][$ocorrencia->codigo_sub_dimensao_perguntas_respostas]",
+			"reducao",
+			"+=",
+			"total",
+			"'",
+			"cadastro_questao",
+			"5,",
+			" ' ",
+			"	",
+			"'+$",
+			"respostaaaa",
+			"valor-",
+			"resposta-'",
+			"codigo-",
+			"$i",
+			"*/\n",
+			"implode",
+			"integer",
+			"?>\n",
+			"usuarios",
+			",",
+			":",
+			"mysql_real_escape_string",
+			"$",
+			" ",
+			"`",
+			"Q",
+			"N",
+			"Writeln",
+			"’)",
+			"(’"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"($ocorrencia->valor",
+			");",
+			"$ocorrencia->percentual*($ocorrencia->valor*",
+			".'<br><br>';",
+			".'<br><vr",
+			".'<br><br>';",
+			"$resultado[]",
+			"=",
+			"ocorrencia->percentual",
+			"reducao",
+			"total",
+			"subs[$ocorrencia->codigo_dimensao_sub_dimensao_perguntas_respostas][$ocorrencia->codigo_sub_dimensao_perguntas_respostas]",
+			"=",
+			"reducao",
+			"\"",
+			"alterar_questao",
+			")\\n(5,",
+			"'",
+			",",
+			"resaaa",
+			"valoraaa",
+			"respostaaaa",
+			"codigoaaa",
+			"1",
+			"}+td{",
+			"td{",
+			"$",
+			"",
+			":",
+			"",
+			"$Q",
+			"$N",
+			"echo",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/calcular.php",
+					"settings":
+					{
+						"buffer_size": 1721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1502,
+								1502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/models/model_calcular.php",
+					"settings":
+					{
+						"buffer_size": 4231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4119,
+								4119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1390.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/models/test.php",
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/telas/questionario/visualizando.php",
+					"settings":
+					{
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								606
+							]
+						],
+						"settings":
+						{
+							"auto_name": "visualizando.php",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/controllers/questionario.php",
+					"settings":
+					{
+						"buffer_size": 5976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4902,
+								4902
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1485.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/views/telas/questionario/escolher_sub.php",
+					"settings":
+					{
+						"buffer_size": 1224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								981,
+								981
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true
+}
