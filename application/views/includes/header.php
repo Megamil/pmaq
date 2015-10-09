@@ -32,7 +32,7 @@
        <?php header('Access-Control-Allow-Origin: *'); ?>
 
 </head>
-<body>
+
 <!--Barra superior fixa-->
 	<div class="navbar navbar-fixed-top navbar-inverse">
 				<!-- essa classe é usada como aldenador para o conteudo colapsavel -->
@@ -159,6 +159,9 @@
 			</h2>
 		</div>
 	</header>
-<div class="row">
+
+<body>
+
+<div class="row" align="center">
 	<div class="col-lg-1"></div>
 <!-- ////////////////////////////////////////////////////////////Final do header//////////////////////////////////////////////////////////////////-->

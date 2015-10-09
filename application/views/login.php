@@ -24,7 +24,7 @@
 </head>
 <body>
 	<section class="container">
-	    <div class="login">
+	    <div class="login" align="center">
 	      <h1>PMAQ - Login</h1>
 				<?php 
 				   	$atriForm = array('class' => 'form',);
@@ -41,7 +41,8 @@
 
 		    <section class="about">
 		       <p class="about-author">
-		      <p>&copy; 2014 DTTICS - Secretaria da Saúde de Guarulhos</p><br>
+		      <p>&copy; <?php echo date('Y'); ?> DTTICS - Secretaria da Saúde de Guarulhos</p>
+		      <p>Acessado em: <?php echo date('d-m-Y') ?></p><br>
 		    </section>
 	</section>
 </body>
