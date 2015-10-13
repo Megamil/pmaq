@@ -1,4 +1,4 @@
-<div class="col-lg-10 center">
+<div class="col-lg-10" align="left">
 	<div class="well bs-docs-example">
 	<?php 
 		$atriForm = array('class' => 'form-horizontal',);

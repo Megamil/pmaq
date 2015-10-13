@@ -109,10 +109,12 @@ class Model_Users extends CI_Model {
     }
 
     public function ver_acesso($acesso=null){
-        $aplicacoes = $this->db->query('select ga.id_aplicacao, ga.id_grupo from grupo_x_aplicacao ga
+        $sql = 'select ga.id_aplicacao, ga.id_grupo from grupo_x_aplicacao ga
         left join aplicacoes a on a.id_aplicacao = ga.id_aplicacao
-        where a.nome_aplicacao = \''.$acesso.'\' and ga.id_grupo ='.$this->session->userdata('user_group'));
-        
+        where a.nome_aplicacao = \''.$acesso.'\' and ga.id_grupo ='.$this->session->userdata('user_group');
+
+        $aplicacoes = $this->db->query($sql);
+
         if ($aplicacoes->num_rows()>0){
             return true;
         }else{

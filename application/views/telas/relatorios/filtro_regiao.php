@@ -2,7 +2,7 @@
     $(document).ready(function(){
         $("#enviar").click(function(){
 
-            if ($("#regiao").val() == 99){
+            if ($("#regiao").val() == ''){
                 alert ("Escolha uma Regional de Saúde para verificar seu resultado");
                 return false;
             }
@@ -22,7 +22,7 @@
                         <?php 
 
                             echo '<select name="regionalsaude" id="regiao" class="input-large form-control">';
-                            echo '<option value="99">Selecione...</option>';
+                            echo '<option value="">Selecione...</option>';
                             
                             $retorna = $this->model_ubs->retorna_regioes();
 

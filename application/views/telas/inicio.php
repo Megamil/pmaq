@@ -3,7 +3,7 @@
    $('#infos').modal('show');
 });
 	</script>
-<div class="titulo">
+<div class="titulo" align="center">
 <img src="<?php echo base_url(); ?>/padrao/img/bandeira.gif" alt="Prefeitura de Guarulhos"/>
 </div>
 

@@ -96,17 +96,41 @@ class Questionario extends MY_Controller {
 	            $this->load->view('index', $dados);
 
 	        }else{
-	        	
-	        	$info = array('responsavel' => $this->session->userdata('nome'), 
-	        		          'unidades' => $unidades->row()->id_unidade);
-	            $option = $info;
 
-	            $dados = array(
-	                'titulo' => 'Consultar os Resultados',
-	                'tela' => 'relatorios/consultar_resultados',
-	                'unidade' => $option
-	            );
-	            $this->load->view('index', $dados);
+
+	        	if($this->session->userdata('cnes') != ''){$unidades = $this->model_ubs->retorna_ubs_cnes($this->session->userdata('cnes'));}
+				if($this->session->userdata('id_regiao') != ''){$unidades = $this->model_ubs->retorna_ubs_byregiao($this->session->userdata('id_regiao'));}
+
+	        	$resultado = $this->model_perguntas->checkLogResultadosUnidade($unidades->row()->id_unidade);
+
+	        	if($resultado != null) {
+
+		        	$array = array (
+					 	'por_dimensao' => unserialize($resultado->json_ref),
+					 	'log' => 1
+					);			 
+					$this->session->set_userdata($array);
+					$dados = array(
+		                'titulo' => 'Resultado por Unidade',
+		                'tela' => 'questionario/visualizando',
+		                'dados' => $this->session->userdata('por_dimensao'),
+		                'unidade' => $unidades->row()->id_unidade
+		            );
+		            $this->load->view('index', $dados);
+
+	        	} else {
+
+	        		$dados = array(
+		                'titulo' => 'Sem resultados',
+		                'tela' => 'erros/acesso_negado',
+		                'dados' => $this->session->userdata('por_dimensao'),
+		                'unidade' => $unidades->row()->id_unidade
+		            );
+		            $this->load->view('index', $dados);
+
+	        	}
+
+
 
 	        }
         } //final do if de verficação de permissão
@@ -209,7 +233,8 @@ class Questionario extends MY_Controller {
 
 		}else{
 
-			$unidades = $this->model_ubs->retorna_ubs_cnes($this->session->userdata('cnes'));
+			if($this->session->userdata('cnes') != ''){$unidades = $this->model_ubs->retorna_ubs_cnes($this->session->userdata('cnes'));}
+			if($this->session->userdata('id_regiao') != ''){$unidades = $this->model_ubs->retorna_ubs_byregiao($this->session->userdata('id_regiao'));}
 
 			$info = array('responsavel' => $this->session->userdata('nome'), 'unidade' => $unidades->row()->id_unidade);
 			$this->session->set_userdata($info);

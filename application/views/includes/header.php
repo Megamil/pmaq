@@ -98,8 +98,8 @@
 								<!-- <li><a href="<?php echo base_url('relatorios/geral')?>">Todos</a></li> -->
 								<li><a href="<?php echo base_url('questionario/consultar_respondidos'); ?>">Consultar Respondidos pelo Usuário Atual</a></li>
 								<li><a href="<?php echo base_url('questionario/resultado'); ?>">Consultar Resultados</a></li>
-								<li><a href="<?php echo base_url('relatorios/consultar_resultados')?>">Resultados por unidade</a></li>
-								<li><a href="<?php echo base_url('relatorios/regiao')?>">Resultados por região</a></li>
+								<?php if($this->session->userdata('user_group') != 3) { echo "<li><a href=".base_url('relatorios/consultar_resultados').">Resultados por unidade</a></li>"; } ?>
+								<?php if($this->session->userdata('user_group') != 3) { echo "<li><a href=".base_url('relatorios/regiao').">Resultados por região</a></li>"; } ?>
 								<li><a href="<?php echo base_url('relatorios/relatorio_subdimensoes')?>">Resultados por Sub dimensão</a></li>
 							</ul>
 
@@ -162,6 +162,6 @@
 
 <body>
 
-<div class="row" align="center">
+<div class="row">
 	<div class="col-lg-1"></div>
 <!-- ////////////////////////////////////////////////////////////Final do header//////////////////////////////////////////////////////////////////-->
