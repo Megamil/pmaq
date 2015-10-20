@@ -28212,3 +28212,138 @@ DEBUG - 2015-10-13 20:16:52 --> File loaded: application/views/includes/footer.p
 DEBUG - 2015-10-13 20:16:52 --> File loaded: application/views/index.php
 DEBUG - 2015-10-13 20:16:52 --> Final output sent to browser
 DEBUG - 2015-10-13 20:16:52 --> Total execution time: 0.1716
+DEBUG - 2015-10-13 20:26:22 --> Config Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Hooks Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Utf8 Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> UTF-8 Support Enabled
+DEBUG - 2015-10-13 20:26:22 --> URI Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Router Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Output Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Security Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Input Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-10-13 20:26:22 --> Language Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Loader Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: url_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: form_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: array_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: date_helper
+DEBUG - 2015-10-13 20:26:22 --> Database Driver Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Form Validation Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Session Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: string_helper
+DEBUG - 2015-10-13 20:26:22 --> Session routines successfully run
+DEBUG - 2015-10-13 20:26:22 --> Table Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Jquery Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Javascript Class Initialized and loaded.  Driver used: jquery
+DEBUG - 2015-10-13 20:26:22 --> Pagination Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Controller Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Config Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Hooks Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Utf8 Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> UTF-8 Support Enabled
+DEBUG - 2015-10-13 20:26:22 --> URI Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Router Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Output Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Security Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Input Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-10-13 20:26:22 --> Language Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Loader Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: url_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: form_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: array_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: date_helper
+DEBUG - 2015-10-13 20:26:22 --> Database Driver Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Form Validation Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Session Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: string_helper
+DEBUG - 2015-10-13 20:26:22 --> A session cookie was not found.
+DEBUG - 2015-10-13 20:26:22 --> Session routines successfully run
+DEBUG - 2015-10-13 20:26:22 --> Table Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Jquery Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Javascript Class Initialized and loaded.  Driver used: jquery
+DEBUG - 2015-10-13 20:26:22 --> Pagination Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Controller Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> File loaded: application/views/login.php
+DEBUG - 2015-10-13 20:26:22 --> Final output sent to browser
+DEBUG - 2015-10-13 20:26:22 --> Total execution time: 0.1404
+DEBUG - 2015-10-13 20:26:22 --> Config Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Hooks Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Utf8 Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> UTF-8 Support Enabled
+DEBUG - 2015-10-13 20:26:22 --> URI Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Router Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Output Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Security Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Input Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-10-13 20:26:22 --> Language Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Loader Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: url_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: form_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: array_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: date_helper
+DEBUG - 2015-10-13 20:26:22 --> Database Driver Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Form Validation Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Session Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: string_helper
+DEBUG - 2015-10-13 20:26:22 --> Session routines successfully run
+DEBUG - 2015-10-13 20:26:22 --> Table Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Jquery Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Javascript Class Initialized and loaded.  Driver used: jquery
+DEBUG - 2015-10-13 20:26:22 --> Pagination Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Controller Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Config Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Hooks Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Utf8 Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> UTF-8 Support Enabled
+DEBUG - 2015-10-13 20:26:22 --> URI Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Router Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Output Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Security Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Input Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-10-13 20:26:22 --> Language Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Loader Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: url_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: form_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: array_helper
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: date_helper
+DEBUG - 2015-10-13 20:26:22 --> Database Driver Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Form Validation Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Session Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Helper loaded: string_helper
+DEBUG - 2015-10-13 20:26:22 --> Session routines successfully run
+DEBUG - 2015-10-13 20:26:22 --> Table Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Jquery Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Javascript Class Initialized and loaded.  Driver used: jquery
+DEBUG - 2015-10-13 20:26:22 --> Pagination Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Model Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> Controller Class Initialized
+DEBUG - 2015-10-13 20:26:22 --> File loaded: application/views/login.php
+DEBUG - 2015-10-13 20:26:22 --> Final output sent to browser
+DEBUG - 2015-10-13 20:26:22 --> Total execution time: 0.1404

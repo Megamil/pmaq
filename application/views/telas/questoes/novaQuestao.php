@@ -22,6 +22,12 @@
     <form action="<?php echo base_url();?>questoes/nova" method="post" class="form" name"cadastro_questao" id"cadastro_questao">
 	<fieldset>
         <div class="form-group">
+        <!--Adicionado para as questões do múltiplas escolhas-->
+         <?php echo form_label('Será de múltipla escolha?:','multipla_escolha',$attrLabel); ?>
+            <div class="col-lg-10">
+                <?php echo form_input(array('type'=>'checkbox','name'=>'multipla_escolha','id'=>'multipla_escolha'),set_value('codigo_pergunta')); ?>
+            </div>
+        <!--Adicionado para as questões do múltiplas escolhas-->
             <?php echo form_label('Numero da Questão:','codigo_pergunta',$attrLabel); ?>
             <div class="col-lg-10">
                 <?php echo form_input(array('type'=>'number','name'=>'codigo_pergunta','id'=>'codigo_pergunta','class'=>'form-control','placeholder'=>'Numero da Questão...'),set_value('codigo_pergunta')); ?>

@@ -52,7 +52,7 @@
             ?>
 
     <form action="<?php echo base_url();?>questoes/pergunta/<?php echo $parametros; ?>" method="post" class="form" name"alterar_questao" id"alterar_questao">
-	<fieldset>
+	<fieldset> 
         <div class="form-group">
             <div class="row">
                 <?php echo form_label('Pergunta:','pergunta',$attrLabel); ?>
@@ -60,6 +60,12 @@
                     <?php echo form_textarea(array('style'=>'resize: none; width: 100%; height: 100px;','name'=>'pergunta','id'=>'pergunta','class'=>'form-control','placeholder'=>'Pergunta...'),set_value('pergunta',$pergunta)); ?>
                 </div>
                 <div class="col-lg-12"><br>
+        <!--Adicionado para as questões do múltiplas escolhas-->
+         <?php echo form_label('Será de múltipla escolha?:','multipla_escolha',$attrLabel); ?>
+            <div class="col-lg-10">
+                <?php echo form_input(array('type'=>'checkbox','name'=>'multipla_escolha','id'=>'multipla_escolha'),set_value('multipla_escolha')); ?>
+            </div>
+        <!--Adicionado para as questões do múltiplas escolhas-->
                     <table class="display table table-striped table-hover table-condensed" id="consultar">
                         <thead>
                             <tr>

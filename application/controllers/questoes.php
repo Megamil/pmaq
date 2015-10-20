@@ -139,16 +139,21 @@ class Questoes extends MY_Controller {
 
 	public function pergunta()
 	{
-		if($this->model_users->ver_acesso($this->uri->segment(2))) {
+		//if($this->model_users->ver_acesso($this->uri->segment(2))) {
 			$codigos = explode('-', $this->uri->segment(3));
 			if ($codigos[0] != NULL) {
 	            $this->form_validation->set_rules('resposta', 'Resposta', 'trim|required|ucwords');
 	            if ($this->form_validation->run()==TRUE) {
-	            	$dados = array('pergunta' => $_POST['pergunta']);
-	            	$this->model_perguntas->update_pergunta($codigos[0],$codigos[1],$codigos[2],$dados);
+	            	if(!is_null($_POST['multipla_escolha'])){
+	            		$multipla_escolha = 't';
+	            	} else {
+	            		$multipla_escolha = 'f';
+	            	}
+	            	$dados = array('pergunta' => $_POST['pergunta'],'multipla_escolha' => $multipla_escolha);
+					$this->model_perguntas->update_pergunta($codigos[0],$codigos[1],$codigos[2],$dados);
 	            }
 			}
-		}
+		//}
 	}
 	
 	public function excluir()

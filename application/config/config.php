@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '/pmaq3';
+$config['base_url']	= '/pmaq2';
 
 /*
 |--------------------------------------------------------------------------
